@@ -45,3 +45,12 @@
     filter: sepia(80%);
     border-radius: 10px;
 }
+.ex-9-img{
+    transition: 2s;
+}
+.ex-9-img:hover{
+    filter: sepia(80%);
+    border-radius: 15px;
+    width: 700px;
+    margin: 0px 0px;
+}
