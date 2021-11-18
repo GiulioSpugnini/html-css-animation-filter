@@ -6,3 +6,7 @@
     transition: linear 2s;
     width: 100%;
 }
+.ex-3-square:hover{
+    transition: linear 0.2s;
+    border-radius: 50%;
+}
