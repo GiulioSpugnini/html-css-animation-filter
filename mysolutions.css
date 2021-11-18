@@ -10,3 +10,7 @@
     transition: linear 0.2s;
     border-radius: 50%;
 }
+.ex-4-square:hover{
+    transition: linear 1s;
+    background-color: transparent;
+}
