@@ -14,3 +14,15 @@
     transition: linear 1s;
     background-color: transparent;
 }
+.ex-5-square:hover{
+    margin: 0;
+    transition: ease-in-out 1s;
+    width: 120px;
+    height: 120px;
+}
+.ex-5-square:hover:active{
+    margin: 40px;
+    transition: ease-in-out 1s;
+    width: 30px;
+    height: 30px;
+}
