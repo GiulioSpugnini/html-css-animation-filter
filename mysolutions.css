@@ -2,3 +2,7 @@
     transition: linear 2s;
     background-color: red;
 }
+.ex-2-square:hover:active{
+    transition: linear 2s;
+    width: 100%;
+}
