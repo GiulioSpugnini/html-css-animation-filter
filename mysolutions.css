@@ -54,3 +54,12 @@
     width: 700px;
     margin: 0px 0px;
 }
+.ex-10-icon{
+    animation: ruota linear 1s infinite;
+}
+@keyframes ruota{
+   0%{ transform: rotate(1turn);     
+} 
+
+}
+
